@@ -1,7 +1,6 @@
-# MakeBundesliga_Py
-Bundesliga Visualisations
-
-Let's collaborate and make some visualisations with Python.
+## MakeBundesliga_Py
+#Bundesliga Visualisations
+#Let's collaborate and make some visualisations with Python.
 
 - Keep the documentation in english
 - Clone this repository
